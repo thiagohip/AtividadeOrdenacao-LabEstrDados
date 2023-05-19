@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684492098 source:/home/alunos/Documentos/AtividadeOrdenacao/main.cpp
+	<iostream>
+	"Ordenacao.h"
+
+1684492324 /home/alunos/Documentos/AtividadeOrdenacao/include/Ordenacao.h
+
+1684492406 source:/home/alunos/Documentos/AtividadeOrdenacao/src/Ordenacao.cpp
+	"Ordenacao.h"
+	<iostream>
+
